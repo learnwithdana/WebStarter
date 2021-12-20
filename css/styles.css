@@ -1,0 +1,18 @@
+body {
+    background-color: #25ffff;
+  }
+  
+  nav {
+    background-color:rgb(255,255,255);
+  }
+
+  h1 {
+    color: red;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
